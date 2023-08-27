@@ -7,9 +7,9 @@ package Logica;
  */
 public class Alumno {
     
-    int id;
-    String nombre;
-    String apellido;
+    private int id;
+    private String nombre;
+    private String apellido;
 
     
     public void mostrarNombre(){
